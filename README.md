@@ -1,4 +1,14 @@
-# podman-devcontainer  
+> [!IMPORTANT]
+> **This repo is moving to Nostr.** GitHub will stay as a mirror. New issues and patches go there.
+>
+> - Browse: [gitworkshop.dev/nomadshiba.me/podman-devcontainer](https://gitworkshop.dev/nomadshiba.me/podman-devcontainer)
+> - Clone: `git clone nostr://nomadshiba.me/podman-devcontainer`
+>
+> To clone `nostr://` URLs and send patches, install [ngit](https://ngit.dev). It's git collaboration over Nostr, with no accounts and no platform.
+>
+> <sub>If NIP-05 doesn't resolve: [gitworkshop (npub)](https://gitworkshop.dev/npub1gkp4cdh5rktehjqjnqc09awey4302dpadlka6mes4fu5spes7fhqfsppqk/podman-devcontainer) · `nostr://npub1gkp4cdh5rktehjqjnqc09awey4302dpadlka6mes4fu5spes7fhqfsppqk/podman-devcontainer`</sub>
+
+# podman-devcontainer
 
 A simple `podman` wrapper to make it work with DevContainers. Just a quick way to get Podman playing nice with your dev setup.  
 
